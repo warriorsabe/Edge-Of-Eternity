@@ -1,0 +1,73 @@
+t = 0
+
+The Phoenix Nebula collapses into a handful of protostars, including the binary of Terminus/Eterna, two red dwarfs. At roughly the same time, Neith forms, a close binary between the most massive star in the cluster (nearly a quarter of a solar mass) and a small frozen star. 
+
+
+t = ~1 Myr
+
+Inner Terminus system and Eterna are condensed to only a couple hundred planetesimals. Seeds of Tempest and Cerberus are both bigger than Mars at this point; Achlys is just starting to accrete. All three are much closer together than they are today. Around this time, Apep starts to form near the frost line of Neith along with a host of planetesimals beyond it.
+
+
+t = ~4 Myr
+
+Apep is fully formed. Drag from the disk causes it to begin spiralling inward. Tempest has grown to about 10 earth masses, while Achlys and Cerberus are still only a couple earth masses. The earlier formation of Tempest and Cerberus is stunting the growth of Achlys.
+
+
+t = ~9 Myr
+
+Instability from Neith A and B causes Apep's orbit to begin to destabilize. Tempest is nearly fully formed at ~24 earth masses, and starts to push out Achlys and Cerberus while simultaneously moving inwards somewhat. The inner Terminus system has been reduced to only about a dozen worlds, while the inner trans-Cerberan system starts to coalesce into the seeds of Haven and Esker.
+
+
+t = ~14 Myr
+
+Apep is pushed to an escape trajectory. Picks up a couple planetesimals on the way out. Terminus and Eterna systems begin to resemble their modern configurations, with some extras.
+
+
+t = ~140 Myr
+
+Terminus ignites; most planets are formed now. Terminus system is currently Calefact, Abaddon, Revenant, Tempest, Achlys, Cerberus, Haven, Esker, Typhos, and a few other unnamed planetesimals. Tempest has formed Zephyr and Topan, while Cerberus has formed Sephon, Achlys, and Warden. Achlys's stunted growth has lead to it having very little water compared to its neighbors, a lack shared by Haven.
+
+
+t = ~250 Myr
+
+Eterna ignites. Its system is comprised of Torren, Prometheus, Ona, Gelis, and the distant dwarf planet Ergal. There is a large unconsolidated belt of asteroids and comets beyond Gelis.
+
+
+t = ~2 Gyr
+
+Ergal captures Joku from the surrounding belt, while Haven aquires Damocles from the trans-Eskerian belt. Gravitational interactions from the inner planets begin to disperse the belt. Resonances begin to form.
+
+
+t = ~15 Gyr
+
+Inner trans-Gelis belt almost completely dispersed or accreted, outer trans-Gelis belt is being thinned by asteroids falling out of Eterna's sphere of influence or impacting Ergal. Erebos gets captured by Ergal. Brink is captured by Haven after it was loosed from the trans-Gelis belt.
+
+
+t = ~70 Gyr
+
+Terminus and Eterna haved slowed in rotation enough that they no longer produce violent flares. Semi-habitable conditions now exist on Revenant and Prometheus, though now that asteroids are rare abiogenetic compounds are almost non-existent on both.
+
+
+t = ~320 Gyr
+
+One of the last stray asteroids from Eterna makes a chance impact with Revenant, this time seeding life on its surface. Due to the harsh conditions of the tidally locked world, development is very slow. Meanwhile, Prometheus is unable to form RNA-based life due to the unfavorable chemical conditions.
+
+
+t = ~335-340 Gyr
+
+Revenant evolves simple plant life. Its magnetic fiels is starting to weaken. Over the next few billion years, animal life evolves, then intelligent life, which eventually transforms the planet into an ecumenopolis and builds an artificial magnetic shield. Soon after ecumenopolising Revenant, the inhabitants send out interstellar probes to find a better home, due to their revelation that Revenant will not be habitable for much longer on astronomical scales. A colony ship is sent out towards a potential home. Shortly afterwards a large asteroid impacts Revenant between the night-side radiators and the habitat belts, killing off most of the population. The remainder of the population is unable to fully repopulate, though they remain stable for quite some time.
+
+
+t = ~450 Gyr
+
+Terminus slowly begins to heat up, slowly warming Revenant
+
+
+t = ~600 Gyr
+
+Terminus begins heating in earnest. Tempest loses a significant amount of mass, causing it to lose Topan and Zephyr to move inwards, to be tidally disrupted leaving it as just a small pece of the core. Achlys loses what little water it had, while Cerberus melts and gains oxygen in its atmosphere from photolysis of the water vapor. The mass loss is insignificant compared to its overall mass.
+
+
+t = ~740 Gyr
+
+Apep encounters the Terminus/Eterna system. It moves near the outer trans-Eskerian belt, causing the remaining protoplanets to suffer many collisions and orbital disruptions. Typhos is spun up by an impact, and thrown in to be captured by Cerberus. Apep then continues through the outer Eterna system, stealing Erebos and Joku from Ergal and dropping it in to Ona. The impact of Ergal with Ona obliterates Ergal and nearly destroys Ona, with the remnants reaccreting into Ember and Shard. Apep continues with Heima pulled out to a further orbit, and ends up captured. After some time, Joku gets captured by Heima. A couple million years later, the Kerbals arrive on Haven.
