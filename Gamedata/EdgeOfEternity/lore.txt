@@ -55,7 +55,7 @@ One of the last stray asteroids from Eterna makes a chance impact with Revenant,
 
 t = ~335-340 Gyr
 
-Revenant evolves simple plant life. Its magnetic fiels is starting to weaken. Over the next few billion years, animal life evolves, then intelligent life, which eventually transforms the planet into an ecumenopolis and builds an artificial magnetic shield. Soon after ecumenopolising Revenant, the inhabitants send out interstellar probes to find a better home, due to their revelation that Revenant will not be habitable for much longer on astronomical scales. A colony ship is sent out towards a potential home. Shortly afterwards a large asteroid impacts Revenant between the night-side radiators and the habitat belts, killing off most of the population. The remainder of the population is unable to fully repopulate, though they remain stable for quite some time.
+Revenant evolves simple plant life. Its magnetic field is starting to weaken. Over the next few billion years, animal life evolves, then intelligent life, which eventually transforms the planet into an ecumenopolis and builds an artificial magnetic shield. Soon after ecumenopolising Revenant, the inhabitants send out interstellar probes to find a better home, due to their revelation that Revenant will not be habitable for much longer on astronomical scales. A colony ship is sent out towards a potential home. Shortly afterwards a large asteroid impacts Revenant between the night-side radiators and the habitat belts, killing off most of the population. The remainder of the population is unable to fully repopulate, though they remain stable for quite some time.
 
 
 t = ~450 Gyr

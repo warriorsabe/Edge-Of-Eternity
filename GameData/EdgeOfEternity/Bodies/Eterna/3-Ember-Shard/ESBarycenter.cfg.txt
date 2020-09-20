@@ -1,0 +1,53 @@
+@Kopernicus:FOR[EdgeOfEternity]
+{
+	Body
+	{
+		cacheFile = EdgeOfEternity/Bodies/Eterna/3-Ember-Shard/ESBarycenter.bin
+		name = ESBarycenter
+		Template
+		{
+			name = Jool
+			removeAtmosphere = true
+		}
+		Properties
+		{
+			albedo = 0.29	
+			description = The center of mass of Ember and Shard
+			displayName = Ember-Shard Barycenter^N
+			radius = 20000
+			gravParameter = 36328735350
+			rotates = true
+			rotationPeriod = 12681
+			tidallyLocked = true
+			initialRotation = 90
+			isHomeworld = false
+			sphereOfInfluence = 3333760
+			inverseRotThresholdAltitude = 300
+			timewarpAltitudeLimits = 25000 25000 25000 35000 50000 75000 100000 150000
+			ScienceValues
+			{
+				landedDataValue = 11.2
+				inSpaceLowDataValue = 2.1
+				inSpaceHighDataValue = 1.4
+				recoveryValue = 11.5
+				spaceAltitudeThreshold = 60000
+			}
+		}
+		Orbit
+		{
+			referenceBody = Eterna
+			color = 0.47,0.41,0.37
+			semiMajorAxis = 529821963
+			eccentricity = 0.009
+			inclination = 5.1		
+			longitudeOfAscendingNode = 40
+			argumentOfPeriapsis = 258
+			meanAnomalyAtEpoch = 0
+			epoch = 0
+		}
+		ScaledVersion
+		{
+			invisible = true
+		}
+	}
+}
