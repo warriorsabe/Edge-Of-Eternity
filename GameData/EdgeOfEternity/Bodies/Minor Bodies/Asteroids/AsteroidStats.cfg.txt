@@ -1,0 +1,63 @@
++PART[PotatoRoid] //Non-cometary asteroids with large quantities of volatiles
+{
+	@name = EoE-VolatileAsteroid
+	@title = EoE-VolatileAsteroid
+	@MODULE[ModuleAsteroid]
+	{
+		@density = 0.02
+	}
+	@MODULE[ModuleAsteroidResource]
+	{
+		@resourceName = Ore
+		%lowRange = 0.65
+		%highRange = 0.9
+	}
+}
+
++PART[PotatoRoid] //C-type asteroids
+{
+    @name = EoE-CarbonaceousAsteroid
+	@title = EoE-CarbonaceousAsteroid
+	@MODULE[ModuleAsteroid]
+    {
+        @density = 0.023
+    }
+	@MODULE[ModuleAsteroidResource]
+	{
+		@resourceName = Ore
+		%lowRange = 0.50
+		%highRange = 0.85
+	}
+}
+
++PART[PotatoRoid] //S-type asteroids
+{
+    @name = EoE-StonyAsteroid
+	@title = EoE-StonyAsteroid
+	@MODULE[ModuleAsteroid]
+    {
+        @density = 0.034
+    }
+	@MODULE[ModuleAsteroidResource]
+	{
+		@resourceName = Ore
+		%lowRange = 0.20
+		%highRange = 0.60
+	}
+}
+
++PART[PotatoRoid] //X-type asteroids
+{
+    @name = EoE-MetallicAsteroid
+	@title = EoE-MetallicAsteroid
+	@MODULE[ModuleAsteroid]
+    {
+        @density = 0.065
+    }
+	@MODULE[ModuleAsteroidResource]
+	{
+		@resourceName = Ore
+		%lowRange = 0.005
+		%highRange = 0.05
+	}
+}
