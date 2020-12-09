@@ -1,0 +1,13 @@
+@EVE_CLOUDS:HAS[@OBJECT[Haven*]]
+{
+	+OBJECT[HavenClouds]
+	{
+		@name = KerbinClouds
+		@body = Kerbin
+	}
+	+OBJECT[HavenAurora]
+	{
+		@name = KerbinAurora
+		@body = Kerbin
+	}
+}
