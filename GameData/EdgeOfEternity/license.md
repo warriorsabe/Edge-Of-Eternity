@@ -1,0 +1,1 @@
+Edge of Eternity, created by WarriorSabe, is licensed under the terms of CC BY-NC-ND 4.0
