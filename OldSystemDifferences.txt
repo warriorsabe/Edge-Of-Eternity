@@ -33,3 +33,16 @@ Typhos		Orbited Terminus, not oblate
 Ona		Instead of Ember/Shard
 		73% silicates, 27% iron
 		309km/0.472g
+
+
+Ergal		Outer Eternan system
+		39% water, 53% silicates, 8% iron
+		264km/0.215g
+
+	Joku	Orbits Ergal instead
+	
+	Erebos	Orbits Ergal instead
+
+
+
+Met, Apep	Nonexistent
