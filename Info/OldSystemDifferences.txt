@@ -10,7 +10,7 @@ Tempest		52% envelope, 34% water, 7% silicates, 3% iron
 			0.15 albedo
 
 Achlys		8.21 atm, oxygenated
-		surface water, not locked
+		surface water
 		0.22 albedo
 
 Cerberus	36.4 atm: 50.1% H2, 39.4% He, 7.5% N2, 1.7% CH4, 1.1% NH3, 0.2% H2O
