@@ -30,7 +30,7 @@ Terminus ignites; most planets are formed now. Terminus system is currently Cale
 
 t = ~250 Myr
 
-Eterna ignites. Its system is comprised of Torren, Prometheus, Ona, Gelis, and the distant dwarf planet Ergal. There is a large unconsolidated belt of asteroids and comets beyond Gelis.
+Eterna ignites. Its system is comprised of Torren, Prometheus, Obis, Arenace, Gelis, and the distant dwarf planet Ergal. There is a large unconsolidated belt of asteroids and comets beyond Gelis.
 
 
 t = ~2 Gyr
@@ -70,4 +70,4 @@ Terminus begins heating in earnest. Tempest loses a significant amount of mass, 
 
 t = ~740 Gyr
 
-Apep encounters the Terminus/Eterna system. It moves near the outer trans-Eskerian belt, causing the remaining protoplanets to suffer many collisions and orbital disruptions. Typhos is spun up by an impact, and thrown in to be captured by Cerberus. Apep then continues through the outer Eterna system, stealing Erebos and Joku from Ergal and dropping it in to Ona. The impact of Ergal with Ona obliterates Ergal and nearly destroys Ona, with the remnants reaccreting into Ember and Shard. Apep continues with Heima pulled out to a further orbit, and ends up captured. After some time, Joku gets captured by Heima. A couple million years later, the Kerbals arrive on Haven.
+Apep encounters the Terminus/Eterna system. It moves near the outer trans-Eskerian belt, causing the remaining protoplanets to suffer many collisions and orbital disruptions. Typhos is spun up by an impact, and thrown in to be captured by Cerberus. Apep then continues through the outer Eterna system, stealing Erebos and Joku from Ergal and dropping it in to Ona. The impact of Ergal with Obis obliterates Ergal and nearly destroys Obis, with the remnants reaccreting into Ember and Shard. Apep continues with Heima pulled out to a further orbit, and ends up captured. After some time, Joku gets captured by Heima. A couple million years later, the Kerbals arrive on Haven.
