@@ -1,0 +1,1 @@
+The DSN range adjustments are found under the antenna rebalance config
