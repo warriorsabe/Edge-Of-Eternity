@@ -1,0 +1,24 @@
+EVE_CITY_LIGHTS
+{
+	OBJECT
+	{
+		name = AchlysThermal
+		body = Achlys
+		cityLightsMaterial
+		{
+			_CityOverlayTex
+			{
+				value = EoE-VolumetricVE/EVE/Textures/Emissives/Achlys_Glow
+				type = AlphaMap
+			}
+			_CityDarkOverlayDetailTex
+			{
+				value = EoE-VolumetricVE/EVE/Textures/Details/Achlys_Glow_Color
+			}
+			_CityLightOverlayDetailTex
+			{
+				value = EoE-VolumetricVE/EVE/Textures/Details/Achlys_Glow_Color		//Empty
+			}
+		}
+	}
+}
