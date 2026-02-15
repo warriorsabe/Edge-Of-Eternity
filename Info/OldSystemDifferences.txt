@@ -34,6 +34,10 @@ Obis		Instead of Ember/Shard, 5:9 with Prometheus
 		73% silicates, 27% iron
 		309km/0.472g
 
+72:40:25:18
+ 4:     :1
+
+
 
 Ergal		Outer Eternan system
 		39% water, 53% silicates, 8% iron
